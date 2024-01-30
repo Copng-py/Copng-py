@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Copng-py
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in deep Learning
 - 🌱 I’m currently learning BlackChain and AI
 
 <!---
