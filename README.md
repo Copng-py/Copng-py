@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Copng-py
-- 👀 I’m interested in deep Learning
-- 🌱 I’m currently learning BlackChain and AI
+- 👀 I’m interested in LLMs
+- 🌱 I’m currently learning Computer Vision(OpenCV-edge detetction) and Diffusion Model
 
 <!---
 Copng-py/Copng-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
