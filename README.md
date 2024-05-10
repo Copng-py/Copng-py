@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Copng-py
-- 👀 I’m interested in LLMs
-- 🌱 I’m currently learning AI and Software Development
+# 👋 Hi, I'm @Belinda
+👀 **Interested in LLMs and System Building**<br>
+🌱 **I'm currently working as a Software Developer while pursuing my Master's Degree in AI at The Hong Kong Polytechnic University**
 
-<!---
-Copng-py/Copng-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/031orTCxbmCjYJ99JaDtO4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
