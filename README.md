@@ -21,6 +21,7 @@
 </a>
   <a href="https://nodejs.org/en">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="80" height="50"/>
+  </a>
   <!-- SQL image without a link -->
   <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL" width="50" height="50"/>
   <!-- Go image with a link -->
