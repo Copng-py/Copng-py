@@ -21,9 +21,9 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/031orTCxbmCjYJ99JaDtO4?si=2109a6f8a57647e8">
-    <img src="https://i.kfs.io/album/global/27553367,0v1/fit/500x500.jpg" alt="Steady Me Album Cover" width="330"/>
+    <img src="https://i.kfs.io/album/global/27553367,0v1/fit/300x300.jpg" alt="Steady Me Album Cover" width="330"/>
   </a>
   <a href="https://open.spotify.com/track/0IKAJbxilT3mMp3LbhoH2l?si=9a905ce3edcb42ce">
-    <img src="https://i1.sndcdn.com/artworks-otqdE7I9Sjyl-0-t500x500.jpg" alt="Fashion Album Cover" width="330"/>
+    <img src="https://i1.sndcdn.com/artworks-otqdE7I9Sjyl-0-t300x300.jpg" alt="Fashion Album Cover" width="330"/>
   </a>
 </p>
