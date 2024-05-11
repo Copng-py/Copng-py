@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @Belinda
 
-👀 **Interested in LLMs and System Building**<br>
+👀 **Interested in AI and System Building**<br>
 🌱 **I'm currently working as a Software Developer while pursuing my Master's Degree in AI at The Hong Kong Polytechnic University**
 
 
